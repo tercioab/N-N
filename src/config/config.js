@@ -22,4 +22,4 @@ module.exports = {
     database: 'books_database_production',
   },
 };
-Footer
+
